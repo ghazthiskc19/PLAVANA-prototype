@@ -48,9 +48,9 @@ Berikut adalah daftar alat, pustaka, dan teknologi yang digunakan dalam pengemba
 - **Skor & Game Over:**  
   Skor pemain dihitung berdasarkan seberapa lama mereka bertahan dalam permainan. Permainan berakhir ketika pemain jatuh ke dalam monster.
 
-#### **Flowchart**
+### **Flowchart**
 Berikut adalah flowchart yang menggambarkan alur kerja implementasi mekanika permainan:
-![Flowchart Image](../Assets/Image/Flowchart.jpg)
+![Flowchart Image](../main/Assets/Image/Flowchart.jpg)
 
 ### **Tantangan Teknis**
 
