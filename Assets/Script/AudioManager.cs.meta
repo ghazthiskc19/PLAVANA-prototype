@@ -3,7 +3,18 @@ guid: 31f4975f77d30ab4e89069e21d7da1f1
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - SFX: {instanceID: 0}
+  - Music: {instanceID: 0}
+  - MusicBg: {fileID: 8300000, guid: 59c072cb02365094c83f3341dd54f62c, type: 3}
+  - Step: {instanceID: 0}
+  - Jump: {instanceID: 0}
+  - Death: {instanceID: 0}
+  - CollectCoin: {instanceID: 0}
+  - Confirm: {instanceID: 0}
+  - Pause: {instanceID: 0}
+  - Unpause: {instanceID: 0}
+  - PlatformCrash: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
